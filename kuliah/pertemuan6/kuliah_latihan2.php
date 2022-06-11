@@ -16,7 +16,7 @@ $mahasiswa = [
     ],
     [
         "gambar" => "img3.jpeg",
-        "nama" => "ini nama",
+        "nama" => "salma",
         "npm" =>"213040003", 
         "email" =>"salsa@gmail.com", 
         "jurusan" =>"Teknik Industri"
@@ -39,7 +39,7 @@ $mahasiswa = [
         "gambar" => "img6.jpg",
         "nama" => "Ainan Bahrul",
         "npm" => "21304006",
-        "email" => "haykal@gmail.com",
+        "email" => "ainan@gmail.com",
         "jurusan" => "Teknik Informatika",
     ],
     [
